@@ -1,0 +1,15 @@
+# Credenciales
+android/key.properties
+android/app/trainapp.jks
+
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# IDE
+.idea/
+.vscode/
+*.iml

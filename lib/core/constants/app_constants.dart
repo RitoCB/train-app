@@ -5,9 +5,8 @@ class AppConstants {
   static const appVersion = '1.0.0';
 
   // Supabase — reemplaza con tus credenciales
-  static const supabaseUrl = 'https://nkifnnoeisilmxxnaopi.supabase.co/rest/v1/';
-  static const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5raWZubm9laXNpbG14eG5hb3BpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM5MzMyNTQsImV4cCI6MjA5OTUwOTI1NH0.32dXFy7g79I_umNZiP38O9mR1-H9lp1VXOOrlccyd08';
-
+ static const supabaseUrl     = 'https://nkifnnoeisilmxxnaopi.supabase.co';
+static const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5raWZubm9laXNpbG14eG5hb3BpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM5MzMyNTQsImV4cCI6MjA5OTUwOTI1NH0.32dXFy7g79I_umNZiP38O9mR1-H9lp1VXOOrlccyd08'; // la tuya completa
   // Hive boxes
   static const boxUser     = 'user';
   static const boxSessions = 'sessions';
